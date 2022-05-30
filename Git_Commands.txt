@@ -1,0 +1,8 @@
+1) git --version
+2) git init  ( to initiliaze empty GIT repository)
+3) git status ( first command mostly use to write  to check the status of the reopository) 
+4) git add . (all files goes to staging area from working directory)
+5) git commit -m "type message here"
+6) git log (kisne kia kia changing kri code me ye batati he command)
+7) git config --global user.name "type your name here"  (to change your git username)  (global means sbb repositories k lie name yehi rhega )
+8) git config --global user.email "type you email here"
