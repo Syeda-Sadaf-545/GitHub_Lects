@@ -7,3 +7,7 @@
 7) git config --global user.name "type your name here"  (to change your git username)  (global means sbb repositories k lie name yehi rhega )
 8) git config --global user.email "type you email here"
 9) git push -u origin master
+
+
+
+https://github.com/Syeda-Sadaf-545/GitHub_Lects/blob/main/index.txt.txt
